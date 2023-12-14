@@ -58,4 +58,4 @@ This project is licensed under the [MIT License](LICENSE.md). Please review the 
 
 Thank you for your interest in the Indian Crafts and Artifacts project!
 
-For questions or inquiries, please contact [Project Maintainer's Name] at [maintainer@email.com].
+For questions or inquiries, please contact [Project Maintainer's Name] at [Kuldeepkrjha@email.com].
